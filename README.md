@@ -7,15 +7,15 @@
 ## 🚀 About Me
 
 <p align="left">
-  • 🔭 <b>I'm currently working on:</b> Data Analysis and Data Science projects.<br>
-  • 🌱 <b>I'm currently learning:</b> Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.<br>
-  • 🤝 <b>I'm looking to collaborate on:</b> Data Analysis and Data Science projects.<br>
-  • 💬 <b>Ask me about:</b> Python, Data Analysis, Statistics, SQL, and Power BI.
+  •  <b>I'm currently working on:</b> Data Analysis and Data Science projects.<br>
+  •  <b>I'm currently learning:</b> Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.<br>
+  •  <b>I'm looking to collaborate on:</b> Data Analysis and Data Science projects.<br>
+  •  <b>Ask me about:</b> Python, Data Analysis, Statistics, SQL, and Power BI.
 </p>
 
 ---
 
-## 🌐 Socials
+## 🌐 Social
 <p align="left">
   <a href="https://www.linkedin.com/in/shivani-rajpoot-987475312" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/data_science_with_shivani/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
