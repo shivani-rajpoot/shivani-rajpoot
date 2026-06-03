@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Rajput</h1>
 <h3 align="center">Data Science Enthusiast | Python Learner | Future Data Analyst</h3>
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 🔭 I’m currently working on Data Analysis and Data Science projects.
 
