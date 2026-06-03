@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analysis and Data Science projects.<br><br>🌱 I’m currently learning Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.<br><br>👯 I’m looking to collaborate on Data Analysis and Data Science projects.<br><br>💬 Ask me about Python, Data Analysis, Statistics, SQL, and Power BI.<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights and visual stories.
+🔭 I’m currently working on Data Analysis and Data Science projects.
 
+🌱 I’m currently learning Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.
+
+👯 I’m looking to collaborate on Data Analysis and Data Science projects.
+
+💬 Ask me about Python, Data Analysis, Statistics, SQL, and Power BI.
+
+⚡ Fun fact: I enjoy turning raw data into meaningful insights and visual stories.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data_science_with_shivani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-rajpoot-987475312/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codingwithshivanirajput-m7n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanirajputai9@gmail.com) 
