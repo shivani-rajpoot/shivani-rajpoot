@@ -1,10 +1,9 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,14,20&height=200&section=header&text=HELLO%20WORLD&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Banner" />
+  <img src="https://visio.vercel.app/dist/assets/banners/purple-wave.svg" alt="Data Science Banner" width="100%" />
 </p>
 
 ## 🎯 I'M SHIVANI!
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cHZsc3U3YnZsZnR3dXV3ZzV4M3V4M3pnd3V4M3V4M3Z5cHZsJnA9Z19zY2VuZV9pbnRlcm5hbA/d0Df76D491p6M/giphy.gif" align="right" width="180" alt="Data Owl" />
 
 *Data Science Enthusiast & Analyst*
 
