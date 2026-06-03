@@ -1,40 +1,18 @@
-# ⚡ Welcome to my Data Space! I'm Shivani Rajput
+# 💫 About Me:
+🔭 I’m currently working on Data Analysis and Data Science projects.<br><br>🌱 I’m currently learning Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.<br><br>👯 I’m looking to collaborate on Data Analysis and Data Science projects.<br><br>💬 Ask me about Python, Data Analysis, Statistics, SQL, and Power BI.<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights and visual stories.
 
-I am a data science enthusiast currently working on comprehensive data analysis projects. Alongside managing my academic pursuits for a BA degree, I am continuously deep-diving into advanced Excel and Power BI to build impactful, data-driven solutions.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data_science_with_shivani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-rajpoot-987475312/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codingwithshivanirajput-m7n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanirajputai9@gmail.com) 
 
-## 🛠️ My Data Toolbox
-
-### 💻 Core Languages & Data Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-</p>
-
-### 📊 Analytics, Frameworks & Core Concepts
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/EDA-FF5722?style=for-the-badge" alt="EDA" />
-  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge" alt="Statistics" />
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shivani-rajpoot &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shivani-rajpoot &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivani-rajpoot &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=shivani-rajpoot &icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Let's Connect & Explore
-<p align="left">
-<a href="https://www.linkedin.com/in/shivani-rajpoot-987475312" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/data_science_with_shivani/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.blogger.com/blog/posts/5509243646835201113" target="blank"><img src="https://img.shields.io/badge/My_Blogger_Space-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>
-</p>
-
----
-
-### 📈 GitHub Analytics
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-rajpoot&show_icons=true&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
