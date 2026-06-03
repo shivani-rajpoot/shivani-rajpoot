@@ -1,9 +1,10 @@
-## Hi there 👋
+
 # Hi there! 👋 I'm Shivani Rajput
 
-I have completed my Data Science course and I am working on data analysis projects. I am also doing my BA and learning Excel and Power BI to improve my data skills.
+I have completed my Data Science course and I am working on data analysis projects.
+I am also doing my BA and learning Excel and Power BI to improve my data skills.
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 - 🐍 **Languages:** Python, SQL
 - 📊 **Data Analytics:** Data Analysis, EDA (Exploratory Data Analysis)
 - 🐼 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
@@ -17,7 +18,7 @@ I have completed my Data Science course and I am working on data analysis projec
 
 ---
 ### 📊 GitHub Stats
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-rajpoot&show_icons=true&theme=dark)
+![Shivani GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-rajpoot&show_icons=true&theme=dark)
 <!--
 **shivani-rajpoot/shivani-rajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
