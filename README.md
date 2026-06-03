@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Shivani Rajput
 
 <p align="center">
-  <b>Data Scientist | Data Science Enthusiast | Future Data Analyst</b>
+  <b> Future Data Scientis </b>
 </p>
 
 ## 🚀 About Me
 
 <p align="left">
-  •  <b>I'm currently working on:</b> Data Analysis and Data Science projects.<br>
-  •  <b>I'm currently learning:</b> Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.<br>
-  •  <b>I'm looking to collaborate on:</b> Data Analysis and Data Science projects.<br>
-  •  <b>Ask me about:</b> Python, Data Analysis, Statistics, SQL, and Power BI.
+  • 🔭 <b>I'm currently working on:</b> Data Analysis and Data Science projects.<br>
+  • 🌱 <b>I'm currently learning:</b> Python, Pandas, NumPy, Statistics, SQL, EDA, Power BI, Matplotlib, and Seaborn.<br>
+  • 🤝 <b>I'm looking to collaborate on:</b> Data Analysis and Data Science projects.<br>
+  • 💬 <b>Ask me about:</b> Python, Data Analysis, Statistics, SQL, and Power BI.
 </p>
 
 ---
@@ -58,3 +58,4 @@
 
 ## 📬 Contact Me
 * 📧 **Email:** [shivanirajputai9@gmail.com](mailto:shivanirajputai9@gmail.com)
+* 📞 **Phone:** [+91 9259118979](tel:+919259118979)
