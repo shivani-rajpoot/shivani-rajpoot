@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Shivani Rajput
 
 <p align="center">
-  <b> Future Data Scientis </b>
+  <b> Future Data scientist </b>
 </p>
 
 ## 🚀 About Me
@@ -54,8 +54,9 @@
 ## 🏆 Certifications
 * 📜 Data Scientist Certification
 
+
 ---
 
 ## 📬 Contact Me
 * 📧 **Email:** [shivanirajputai9@gmail.com](mailto:shivanirajputai9@gmail.com)
-* 📞 **Phone:** [+91 9259118979](tel:+919259118979)
+* 📞 **Phone:** [+91 9259118979](https://wa.me/919259118979)
