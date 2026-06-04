@@ -59,4 +59,4 @@
 
 ## 📬 Contact Me
 * 📧 **Email:** [shivanirajputai9@gmail.com](mailto:shivanirajputai9@gmail.com)
-* 📞 **Phone:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919259118979)
+- 📞 **Phone:** ![](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg) [+91 9259118979](https://wa.me/919259118979)
